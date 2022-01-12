@@ -55,3 +55,34 @@ h1, h2 {
 #menu a:hover {
     border-bottom: 1px solid #3a3a3a;  
 }
+
+/* kids image */ 
+
+#kids-outer {
+   height: 300px; 
+}
+
+
+#kids-image {
+    height: 500px;
+    width: 40%;
+    padding: 30px;
+    clear: both;
+    border-radius: 10%;
+    margin: 0 auto;
+    float: left;
+}
+
+#right-side-text {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 50px;
+}
+
+#list-reasons {
+    font-weight: bold;
+}
+
+
