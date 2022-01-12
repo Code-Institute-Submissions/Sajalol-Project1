@@ -86,16 +86,15 @@ h1, h2 {
 
 /* socials */
 
-.socials {
-}
 
 
 .social-networks {
     text-align: center;
-    bottom: 2%;
+    bottom: 3%;
     position: fixed;
     right: 46%;
 }
+
 
 
 .social-networks > li {
@@ -115,7 +114,7 @@ h1, h2 {
 
 footer {
     height: 300px;
-    bottom: 10;
+    bottom: 0;
     text-align: center;
 }
 
@@ -151,5 +150,5 @@ ul > p {
     background-size: cover;
     background-position: center;
     width: 100%;
-    overflow: hidden;
+    overflow:hidden
 }
