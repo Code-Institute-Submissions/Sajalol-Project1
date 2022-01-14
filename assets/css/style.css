@@ -157,7 +157,7 @@ table {
 }
 
 
-ul > p {
+footer > p {
     text-align: left;
     font-size: 25px;
     font-weight: bold;
@@ -220,7 +220,7 @@ ul > p {
 
 #socials-contact  {
 
-    right: 44.5%;
+    right: 45%;
 }
 
 #socials-contact i {
