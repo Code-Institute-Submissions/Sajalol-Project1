@@ -190,34 +190,40 @@ footer > p {
 #contact-image {
     height: 850px;
     width: 100%;
-    background: url(../images/background\ contact.jpg) no-repeat center center;
+    background: url(../images/background-contact-1.jpg) no-repeat center center;
 }
 
-#contact-us {
-    font-size: 130%;
-    font-family: Oswald, sans-serif;
-    text-transform: uppercase;
-    letter-spacing: 4px;
-    
-    width: 600px;
-    height: 500px;
-
-    padding-top: 20px;
-    padding-left: 10px;
-
-
-   bottom: 28px;
-   right: 33%;
-
-   position: absolute;
-}
-
-#contact-us > h1, h2{
-    color:rgb(0, 0, 0);
-    padding-top: 10px;
+#contact-us, #contact-us h2, h3{
+    color: #ffff;
     text-align: center;
 }
 
+#contact-us > h2 {
+    font-size: 220%;
+}
+
+#contact-us > h3 {
+    padding-top: 10px;
+    font-size: 130%;
+}
+
+#contact-us {
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    height: 400px;
+    width: 450px;
+
+    padding-left: 10px;
+
+    background-color:rgba(60, 60, 60, 0.6);
+
+    top: 150px;
+    left: 10%;
+
+    position: absolute;
+
+}
 
 #socials-contact  {
 
