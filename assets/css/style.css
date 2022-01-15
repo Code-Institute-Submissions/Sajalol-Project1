@@ -288,10 +288,10 @@ footer > p {
     color:#252121;
 }
 
-/* for medium screen sizes from 950px wide and down */
+/* for medium screen sizes from 1200px wide and down */
 
 
-@media screen and (max-width:950px) {
+@media screen and (max-width:1200px) {
 
     #menu {
         clear:left;
@@ -299,6 +299,9 @@ footer > p {
         margin-left: 30px;
         margin-bottom: 20px;
         line-height: 25px;
+    }
+    #kids-image {
+        width: 100%;
     }
 
     #kids-outer {
@@ -315,7 +318,7 @@ footer > p {
 
     #social-networks-id i {
         position: relative;
-        bottom: -250px;
+        bottom: -270px;
         left: 300px;
     }
 
@@ -328,7 +331,15 @@ footer > p {
     }
 
     #social-signup {
-        bottom: -80px;
+        bottom: -60px;
+    }
+}
+
+
+@media screen and (max-width:650px) {
+    #social-networks-id i {
+
+        bottom: -350px;
     }
 
 }
