@@ -268,7 +268,7 @@ footer > p {
 }
 
 .text-input:hover {
-    border-color:#f16c6b;
+    border-color:#221f1f;
 }
 
 
@@ -288,3 +288,47 @@ footer > p {
     color:#252121;
 }
 
+/* for medium screen sizes from 950px wide and down */
+
+
+@media screen and (max-width:950px) {
+
+    #menu {
+        clear:left;
+        float: left;
+        margin-left: 30px;
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #kids-outer {
+        width: 90%;
+    }
+    
+
+    #why-choose-us {
+        width: 90%;
+        margin: 0 auto;
+        text-align: center;
+    
+    }
+
+    #social-networks-id i {
+        position: relative;
+        bottom: -250px;
+        left: 300px;
+    }
+
+    #contact-us {
+        width: 70%;
+        height: 50%;
+        margin: 0 auto;
+        text-align: center;
+    
+    }
+
+    #social-signup {
+        bottom: -80px;
+    }
+
+}
