@@ -181,7 +181,7 @@ footer > p {
 /* background pic */ 
 
 #background-img-contact {
-    height: 870px;
+    height: 860px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -189,7 +189,7 @@ footer > p {
 
 #contact-image {
     clear: left;
-    height: 870px;
+    height: 860px;
     width: 100%;
     background: url(../images/background-contact-1.jpg) no-repeat center center;qqq
 }
