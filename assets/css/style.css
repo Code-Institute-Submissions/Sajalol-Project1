@@ -330,16 +330,16 @@ footer > p {
     
     }
 
-    #social-signup {
-        bottom: -60px;
-    }
+
 }
 
 
-@media screen and (max-width:650px) {
-    #social-networks-id i {
 
-        bottom: -350px;
+
+@media screen and (max-width:450px) {
+
+    #social-signup {
+        bottom: -150px;
     }
-
+ 
 }

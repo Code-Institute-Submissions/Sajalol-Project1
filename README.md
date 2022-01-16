@@ -9,7 +9,7 @@ This site is targeted towards the parents of children who wants to further devel
 
 /* Screenshots from am http://ami.responsivedesign.is/ */
 
-##Features
+## Features
 
 * Navigation
 - Featured at the top of the page, the navigation shows the school name in the top left corner: "Football School for Kids" that also links you to the top of the page
@@ -33,19 +33,23 @@ This site is targeted towards the parents of children who wants to further devel
 ## The Sign Up Page
 
 - The sign up section has a form to collect details from parents so they can sign up to the Fotball School for Kids
-- The form collects the parents first, last name and email. 
+- The form collects the parents first and last name, childs name and parents email. 
 - You also choose what day to sign up for.
 ![Signup](./assets/images/signup-form.PNG)
 
 
 ## Contact Us Page
 
-- The contact section encourages users to get in touch with the school if they have any questions
-- Here you can find: Phone number, Email, Street address. Also our socials
+- The contact section encourages users to get in touch with the school if they have any questions.
+- Here you can find: Phone number, Email, Street address and also includes our social icons.
+- The contact section is very valuable as they can easly get in touch if they have any questions.
+![Signup](./assets/images/contact-us.PNG)
 
 
 
+# Testing
 
-=======
+- Tested the pages in following browsers: Chrome, Edge and firefox
+- Confirmed the project is responsive to other displays, looks good and functions good on different screen sizes using the devtools device toolbar
 
->>>>>>> origin/main
+
