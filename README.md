@@ -1,3 +1,4 @@
+<<<<<<< HEAD
  # Fotball School For Kids 
 
 The fotball school for kids website is a landing page for parents and children looking to advance their fotball skills. It ranges from age 6 to 14. 
@@ -45,3 +46,6 @@ This site is targeted towards the parents of children who wants to further devel
 
 
 
+=======
+
+>>>>>>> origin/main
