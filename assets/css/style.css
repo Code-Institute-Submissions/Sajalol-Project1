@@ -347,7 +347,7 @@ footer > p {
 
 
 
-@media screen and (max-width:450px) {
+@media screen and (max-width:550px) {
 
     #menu > li {
         margin: 0;
@@ -359,12 +359,12 @@ footer > p {
     }
 
     #social-networks-id  {
-        bottom: -475px;
+        bottom: -450px;
         right: 650px;
     }
 
     footer {
-        height: 550px;
+        height: 560px;
     }
 
     #contact-us {
