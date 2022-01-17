@@ -49,7 +49,7 @@ This site is targeted towards the parents of children who wants to further devel
 
 # Testing
 
-- Tested the pages in following browsers: Chrome, Edge and firefox
+- Tested the pages in following browsers: Chrome, Edge and Firefox
 - Confirmed the project is responsive to other displays, looks good and functions good on different screen sizes using the devtools device toolbar
 
 

@@ -189,7 +189,7 @@ footer > p {
 
 #contact-image {
     clear: left;
-    height: 860px;
+    height: 950px;
     width: 100%;
     background: url(../images/background-contact-1.jpg) no-repeat center center;
 }
@@ -318,7 +318,7 @@ footer > p {
 
     #social-networks-id i {
         position: relative;
-        bottom: -270px;
+        bottom: -200px;
         left: 300px;
     }
 
@@ -330,16 +330,45 @@ footer > p {
     
     }
 
+    footer {
+        height: 350px;
+    }
 
-}
+    #background-img-contact {
+
+        height: 920px;
+    }
+
+    .form-section {
+        height: 920px;
+    }
+
 
 
 
 
 @media screen and (max-width:450px) {
 
+    #menu > li {
+        margin: 0;
+        padding-right: 50px;
+    }
+
     #social-signup {
         bottom: -150px;
+    }
+
+    #social-networks-id  {
+        bottom: -475px;
+        right: 650px;
+    }
+
+    footer {
+        height: 550px;
+    }
+
+    #contact-us {
+        height: 520px;
     }
  
 }
