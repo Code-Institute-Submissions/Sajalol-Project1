@@ -47,9 +47,29 @@ This site is targeted towards the parents of children who wants to further devel
 
 
 
-# Testing
+## Testing
 
 - Tested the pages in following browsers: Chrome, Edge and Firefox
 - Confirmed the project is responsive to other displays, looks good and functions good on different screen sizes using the devtools device toolbar
+
+
+## Bugs
+
+### Solved bugs
+
+- Had issues with icons not appearing where I`d like them to be
+- Main picture on home-page didnt work when deploying the site
+- Bugs with icons appearing strange places on mobile devices.
+
+
+## Validator Testing
+
+* HTML
+- No errors on HTML test using W3C Validator
+
+* CSS
+- No errors on CSS test using W3C CSS Validator
+
+* Accessibility
 
 
