@@ -181,7 +181,7 @@ footer > p {
 /* background pic */ 
 
 #background-img-contact {
-    height: 860px;
+    height: 870px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -345,9 +345,9 @@ footer > p {
 
 
 
+/* for small screen sizes from 560px wide and down */
 
-
-@media screen and (max-width:550px) {
+@media screen and (max-width:560px) {
 
     #menu > li {
         margin: 0;

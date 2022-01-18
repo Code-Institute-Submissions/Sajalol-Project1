@@ -1,4 +1,3 @@
-<<<<<<< HEAD
  # Fotball School For Kids 
 
 The fotball school for kids website is a landing page for parents and children looking to advance their fotball skills. It ranges from age 6 to 14. 
@@ -71,5 +70,45 @@ This site is targeted towards the parents of children who wants to further devel
 - No errors on CSS test using W3C CSS Validator
 
 * Accessibility
+- Confirmed that the colors and fonts chosen are easy to read and accessible by running it through the lighthouse devtools.
+
+- Lighthouse Home page:
+
+![Home-page](./assets/images/home-lighthouse.PNG)
+
+- Lighthouse Contact page:
+
+![Contact-us](./assets/images/contact-lighthouse.PNG)
+
+- Lighthouse Sign-up page:
+
+![Signup](./assets/images/Signup-lighthouse.PNG)
+
+
+- Pictures seems to be big in size that might cause the performance to take a hit. 
+
+## Unfixed Bugs
+- No unfixed bugs 
+
+## Deployment
+
+-  The site was deployed to GitHub pages. The steps to delpy are as follows:
+    - Choose the repository you'd like to deploy on the frontpage.
+    - Choose "Settings" on the top bar.
+    - Find "Pages" on the side bar.
+    - Under "Source" choose "main" branch and save. After about 3-5mins your site should be deployed.
+
+    * Live link can be found here - 
+
+## Credits
+
+ ### Content
+ - The code to make social links were taken from the Love Running project. 
+ - Used some of the styling from Sign-up form in love running project.
+
+ ### Media
+- All of the pictures were taken from [Pexel](https://www.pexels.com/nb-no/)
+
+
 
 
