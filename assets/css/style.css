@@ -291,7 +291,7 @@ footer > p {
 /* for medium screen sizes from 1200px wide and down */
 
 
-@media screen and (max-width:1400px) {
+@media screen and (max-width:1200px) {
 
     #menu {
         clear:left;
@@ -343,6 +343,19 @@ footer > p {
         height: 920px;
     }
 
+}
+
+/* for laptop screen sizes */
+
+@media screen and (max-height:700px) {
+
+    #social-networks-id i {
+        position: relative;
+        bottom: -300px;
+        left: 300px;
+
+} 
+
 
 
 /* for small screen sizes from 560px wide and down */
@@ -361,6 +374,34 @@ footer > p {
     #social-networks-id  {
         bottom: -450px;
         right: 650px;
+    }
+
+    footer {
+        height: 560px;
+    }
+
+    #contact-us {
+        height: 520px;
+    }
+ 
+}
+
+/* for smallest screen sizes from 400px wide and down */
+
+@media screen and (max-width:420px) {
+
+    #menu > li {
+        margin: 0;
+        padding-right: 15px;
+    }
+
+    #social-signup {
+        bottom: -350px;
+    }
+
+    #social-networks-id  {
+        bottom: -620px;
+        right: 600px;
     }
 
     footer {
