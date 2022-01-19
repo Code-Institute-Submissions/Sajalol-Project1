@@ -291,7 +291,7 @@ footer > p {
 /* for medium screen sizes from 1200px wide and down */
 
 
-@media screen and (max-width:1200px) {
+@media screen and (max-width:1400px) {
 
     #menu {
         clear:left;
