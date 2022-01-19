@@ -6,7 +6,7 @@ The school offers alot of fun and individual training per kid from a young age.
 The users of this website will be able to find all the information they need to know about the Footbal School. About the school, training times and day, contact information and sign up form. 
 This site is targeted towards the parents of children who wants to further develop their fotball skills. 
 
-/* Screenshots from am http://ami.responsivedesign.is/ */
+![AmIresponsive](./assets/images/am-i-responsive.JPG)
 
 ## Features
 
@@ -19,7 +19,7 @@ This site is targeted towards the parents of children who wants to further devel
 ## The Header
 
 - The header explain what it is and why you should choose their fotball school. And it is for kids.
-- This section provides with info about what they can and some details about them.
+- This section provides with info about the teachers and their history.
 ![Header](./assets/images/why-choose-our-fotball-school.PNG)
 
 ## The About Us Section
@@ -50,6 +50,7 @@ This site is targeted towards the parents of children who wants to further devel
 
 - Tested the pages in following browsers: Chrome, Edge and Firefox
 - Confirmed the project is responsive to other displays, looks good and functions good on different screen sizes using the devtools device toolbar
+- Tested mostly on Ipad, iphonexr and iphone4 and laptop and desktop. 
 
 
 ## Bugs
@@ -58,7 +59,7 @@ This site is targeted towards the parents of children who wants to further devel
 
 - Had issues with icons not appearing where I`d like them to be
 - Main picture on home-page didnt work when deploying the site
-- Bugs with icons appearing strange places on mobile devices.
+- Bugs with icons appearing strange places on mobile devices and some laptop sizes.
 
 
 ## Validator Testing
@@ -98,7 +99,7 @@ This site is targeted towards the parents of children who wants to further devel
     - Find "Pages" on the side bar.
     - Under "Source" choose "main" branch and save. After about 3-5mins your site should be deployed.
 
-    * Live link can be found here - 
+    * Live link can be found here - [Project-1 - Stian](https://sajalol.github.io/Project1/index.html)
 
 ## Credits
 
