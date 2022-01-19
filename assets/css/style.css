@@ -288,10 +288,10 @@ footer > p {
     color:#252121;
 }
 
-/* for medium screen sizes from 1100px wide and down */
+/* for medium screen sizes from 800px wide and down */
 
 
-@media screen and (max-width:1100px) {
+@media screen and (max-width:800px) {
 
     #menu {
         clear:left;
